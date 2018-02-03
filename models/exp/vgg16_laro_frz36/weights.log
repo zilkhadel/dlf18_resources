@@ -1,0 +1,10 @@
+batch	12
+size	20
+loss	1.45169
+acc	0.3
+f1_score	0.3
+epochs	2
+steps	13
+verbose	1
+do_validation	True
+metrics	['loss', 'acc', 'f1_score', 'val_loss', 'val_acc', 'val_f1_score']
